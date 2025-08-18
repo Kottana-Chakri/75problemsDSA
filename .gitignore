@@ -1,0 +1,17 @@
+# Ignore Windows and common build artifacts
+*.exe
+*.out
+*.obj
+*.o
+*.pch
+*.pdb
+*.ilk
+*.log
+
+# Local test binaries
+a.exe
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
